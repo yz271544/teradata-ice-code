@@ -75,6 +75,12 @@ This program will decode the password in <logon string>.
 The decoded logon string will output to standard out.
 ```
 
+## cmake
+```shell
+cmake -B build -S .
+cmake --build build
+```
+
 
 
 ## test

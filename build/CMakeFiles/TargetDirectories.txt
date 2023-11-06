@@ -1,0 +1,3 @@
+/lyndon/iProject/cpath/teradata-ice-code/build/CMakeFiles/IceCode.dir
+/lyndon/iProject/cpath/teradata-ice-code/build/CMakeFiles/edit_cache.dir
+/lyndon/iProject/cpath/teradata-ice-code/build/CMakeFiles/rebuild_cache.dir
