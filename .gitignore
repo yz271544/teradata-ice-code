@@ -54,6 +54,7 @@ dkms.conf
 # cmake
 cmake-build-debug/
 build/
+bin/IceCode.exe
 
 # idea
 .idea/
